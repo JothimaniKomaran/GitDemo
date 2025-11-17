@@ -16,10 +16,17 @@ public class Javamethods {
 	public String getData()
 	{
 		System.out.println("JothiKarthik");
+		
 		return "Jothi Loves Karthik";
 	}
 	public static void getData2()
 	{
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
 		System.out.println("Method called without using the object");
 		System.out.println("Method called without using the object");
 		System.out.println("Method called without using the object");
