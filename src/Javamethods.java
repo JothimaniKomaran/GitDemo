@@ -12,6 +12,8 @@ public class Javamethods {
 		String j3=j2.getuserData();
 		System.out.println(j3);
 		getData2();
+		System.out.println("GIt Demo Code");
+
 	}
 	public String getData()
 	{
