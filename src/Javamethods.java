@@ -22,6 +22,9 @@ public class Javamethods {
 	{
 		System.out.println("Method called without using the object");
 		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
+		System.out.println("Method called without using the object");
 
 	}
 
